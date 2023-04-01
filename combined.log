@@ -1,0 +1,10 @@
+{"level":"error","message":"Second number is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 5.2 and 2 received for addition","service":"calculate-service"}
+{"level":"error","message":"Second number is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"Second number is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 5 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 5 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 5 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 5 received for addition","service":"calculate-service"}
+{"level":"error","message":"Second number is zero, and incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 0 received for addition","service":"calculate-service"}

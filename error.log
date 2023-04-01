@@ -1,0 +1,4 @@
+{"level":"error","message":"Second number is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"Second number is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"Second number is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"Second number is zero, and incorrectly defined","service":"calculate-service"}
